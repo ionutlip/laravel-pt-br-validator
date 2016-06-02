@@ -1,5 +1,12 @@
 #Laravel 5 - Validação em Português
 
+**Atenção**: Por motivo de melhor organização dos projetos escritos para Laravel, essa biblioteca agora passa a parar de receber atualizações nesse repositório. Alternativamente, você deve usar esse:
+
+https://github.com/LaravelLegends/pt-br-validator
+
+
+
+
 Essa é uma biblioteca com algumas validações brasileiras.
 
 
